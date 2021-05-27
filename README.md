@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fabsn96
-- 👀 I’m interested in learning coding as skill
+- 👀 I’m interested in learning coding just as a skill
 - 🌱 I’m currently learning JS and Python
 
 
